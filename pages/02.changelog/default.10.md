@@ -7,9 +7,13 @@ title: Changelog
 ## To Do
 
 -   [ ] Customize the [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) page or better integrate it with the site.
--   [ ] Link [spell lists](https://ogl-srd5.com/spellcasting) with thier respective spells.
+-   [ ] Link [spell lists](https://ogl-srd5.com/spellcasting) with their respective spells.
 
 **[Submit an issue or suggestion](https://github.com/Umbyology/OGL-SRD5/issues)**
+
+## March 3rd, 2020
+-   [x] Forked from OGL-SRD5 Repository
+
 
 ## February 9th, 2020
 
